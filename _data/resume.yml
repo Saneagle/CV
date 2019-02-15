@@ -111,7 +111,7 @@ others: #其他列表显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
+  - text: "1"
   #   href: '/'
   - text: "Made with &hearts; by NewFuture"
     href: "https://github.com/NewFuture/CV/"
